@@ -1,0 +1,3 @@
+[submodule "KiCadCommon"]
+	path = KiCadCommon
+	url = git@github.com:ctraabe/KiCadCommon.git

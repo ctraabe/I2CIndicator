@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_BRG_EP
+D LED RGB 6 pins, exposed pad
+$ENDCMP
+#
+#End Doc Library
